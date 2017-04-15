@@ -1,7 +1,7 @@
 package main
 
 func main() {
-	checkFor()
+	fizzBizz()
 }
 
 // go run runner.go $(find . -type f -name "*.go" ! -name 'runner.go')

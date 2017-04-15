@@ -6,6 +6,10 @@ This is my learning project for [Google GO](https://golang.org/). If someone get
 
 Thanks.
 
+## Disclaimer
+
+Most of the commit messages are from [whatthecommit.com](http://whatthecommit.com/). So, don't expect them to be meaningful, just smirk.
+
 ## License
 
 All the code presented are licensed under,
