@@ -54,3 +54,5 @@
 !.vscode/extensions.json
 
 # End of https://www.gitignore.io/api/go,c++,visualstudiocode
+
+algs4-data/
